@@ -2,7 +2,7 @@
   "title": "Alchymie & Hermetika CZ/EN",
   "description": "Zvýhodňuje klasické a nezávislé zdroje o alchymii, hermetismu, okultismu a tradičních naukách. Vhodné i pro vyhledávání historických PDF.",
   "version": "1.0",
-  "schema_version": "1",
+  "schema_version": 1,
   "includes": [
     "sacred-texts.com",
     "levity.com",
@@ -28,4 +28,3 @@
     "britannica.com"
   ]
 }
-
