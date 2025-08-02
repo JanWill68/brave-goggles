@@ -1,0 +1,33 @@
+{
+  "title": "Alchymie & Hermetika CZ/EN",
+  "description": "Zvýhodňuje klasické a nezávislé zdroje o alchymii, hermetismu, okultismu a tradičních naukách. Vhodné i pro vyhledávání historických PDF.",
+  "includes": [
+    "sacred-texts.com",
+    "levity.com",
+    "archive.org",
+    "hermetic.com",
+    "alchemylab.com",
+    "esotericarchives.com",
+    "gnosis.org",
+    "hermetismus.cz",
+    "kramerius5.nkp.cz",
+    "gallica.bnf.fr",
+    "europeana.eu",
+    "philaletheians.co.uk",
+    "kabbalah.info",
+    "ritmanlibrary.com"
+  ],
+  "excludes": [
+    "wikipedia.org",
+    "quora.com",
+    "reddit.com",
+    "facebook.com",
+    "pinterest.com",
+    "britannica.com"
+  ]
+}
+
+
+
+
+Ulož například na plochu
